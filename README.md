@@ -4,7 +4,7 @@ Github client site app code link [Source Code](https://github.com/Billah-Tamim/n
 
 ## Available Scripts
 
-Firebase client site live link [Live link]().
+Firebase client site live link [Live link](https://dragon-news-8b7ed.web.app/).
 
 ### `npm start`
 
