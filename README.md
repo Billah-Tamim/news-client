@@ -1,20 +1,21 @@
 # Getting Started with Create React App
 
-Github client site app code link [Source Code](https://github.com/facebook/create-react-app).
+Github client site app code link [Source Code](https://github.com/Billah-Tamim/news-client).
 
 ## Available Scripts
 
-In the project directory, you can run:
+Firebase client site live link [Live link]().
 
 ### `npm start`
 
 
 Use Vercel to deploy server site[go to vercel server site](https://dragon-news-server-five-beta.vercel.app/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 ### `npm test`
+
+local folder code == n60-module > dragon-news-client
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
