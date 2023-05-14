@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Github client site app code link [Source Code](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Use Vercel to deploy server site[go to vercel server site](https://dragon-news-server-five-beta.vercel.app/).
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
